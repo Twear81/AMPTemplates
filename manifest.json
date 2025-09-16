@@ -1,9 +1,10 @@
 {
-	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee1",
-	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/CubeCoders/AMPTemplates.git",
-	"url": "https://github.com/CubeCoders/AMPTemplates",
-	"imagefile": "",
-	"prefix": "",
-	"repotype": "AppTemplates"
+    "id": "1bb7853b-7a1d-4085-8873-bd4470e4922b",
+    "authors": [
+        "Twear81 - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/Twear81 - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/Twear81 - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": "Twear81 - Made with AMP Config Generator"
 }
