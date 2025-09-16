@@ -5,7 +5,7 @@
         "AutoMap": true
     },
     {
-        "ConfigFile": "Cu/BoatGame/Saved/PersistedData\\nera_dedicatedserver/CustomConfig/stomGameUserSettings.ini",
+        "ConfigFile": "/BoatGame/Saved/PersistedData\\nera_dedicatedserver/CustomConfig/stomGameUserSettings.ini",
         "ConfigType": "ini",
         "AutoMap": true
     }
