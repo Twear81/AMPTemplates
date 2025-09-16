@@ -5,9 +5,14 @@
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "3937860",
         "UpdateSourceArgs": "2686630",
-        "UnzipUpdateSource": false,
-        "OverwriteExistingFiles": false,
-        "DeleteAfterExtract": true,
-        "OneShot": false
+        "SkipOnFailure": false
+    },
+    {
+        "UpdateStageName": "Proton GE Download",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "Executable",
+        "UpdateSourceData": "/bin/bash",
+        "UpdateSourceArgs": "-c \"cd \\\"{{$FullRootDir}}\\\"; mkdir -p \\\"{{$FullRootDir}}.proton/compatdata\\\" \\\"{{$FullBaseDir}}.steam/steam\\\",
+        "SkipOnFailure": false
     }
 ]
