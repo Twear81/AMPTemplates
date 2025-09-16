@@ -10,5 +10,14 @@
         "ForceDownloadPlatform": "Windows",
         "DeleteAfterExtract": true,
         "OneShot": false
+    },
+    {
+        "UpdateStageName": "",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "StartApplication",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
     }
 ]
